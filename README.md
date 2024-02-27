@@ -3,12 +3,10 @@ This was part of the Latent Space hackathon.
 The impetus was to solve for someone navigating the Latent Space podcast for the first time and celebrate their 1 year anniversary. For a new listener, it is difficult to know where to start or what is most relevant. 
 Someone can go chronolocially, search for subjects, or explore the substack, but it is hard to fully wrap your head around all the content out there
 
-So this was an intial attempt to revisit some prior work of mine at my prior startup Flow Immersive.
-
 The live demo can be seen here - https://app.flow.gl/flow/sz77u9r
 This link will work in all browsers on computers, mobile, and AR/VR headsets (except Vision pro until Safari gets their WebXR act together)
 
-I might try to record a video runthrough to help.
+Please note that not all of the data processed correctly so there are bugs on many of the episode summaries etc. I used Flow as that is what I'm most familiar with as it was my most recent startup. 
 
 The process for this hack was 
 
