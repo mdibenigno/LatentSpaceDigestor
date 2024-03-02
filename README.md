@@ -6,7 +6,7 @@ Someone can go chronolocially, search for subjects, or explore the substack, but
 The live demo can be seen here - https://app.flow.gl/flow/sz77u9r
 This link will work in all browsers on computers, mobile, and AR/VR headsets (except Vision pro until Safari gets their WebXR act together)
 
-Please note that not all of the data processed correctly so there are bugs on many of the episode summaries etc. I used Flow as that is what I'm most familiar with as it was my most recent startup. 
+Please note that the RSS feed did not have transcripts for all episodies, so some of the episode nodes don't contain summaries, key insights, and quotes. I used Flow Immersive, a.flow.gl, to visualize the output in 3D, as that is what I'm most familiar with, my most recent startup. 
 
 The process for this hack was 
 
@@ -17,12 +17,12 @@ The process for this hack was
 5. Running each full transcript to GPT-4-Turbo to have a large enough context window for the full episode.
 6. Using AI to summarize each episode, assigning categories (based upon what was in the Substack), identifying quotes with timestamps, and highlighting key insights
 
-Using the result, I put the data into Flow a.flow.gl to visualize and make it interactive. 
+Using the result, I put the data into Flow, a.flow.gl to visualize and make it interactive. 
 I created a 12 vertex shape to be a representation of the categories covered
 Each vertex acts as a center of gravity pulling a dot (episode) closer to it
 So the 3d structure acts as a sort of guide on what the episode is most likely to be about.
 
-Not perfect, but was a fun side project.
+Not perfect, but a fun side project.
 
 Sharing the code I created to do this as the resulting full .csv contains quite a lot of good information. There were bugs etc, but open to anyone else jumping onboard here to take it further.
 
