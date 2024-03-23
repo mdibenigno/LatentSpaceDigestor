@@ -4,7 +4,7 @@ The impetus was to solve for someone navigating the Latent Space podcast for the
 Someone can go chronolocially, search for subjects, or explore the substack, but it is hard to fully wrap your head around all the content out there
 
 The live demo can be seen here - https://app.flow.gl/flow/sz77u9r
-This link will work in all browsers on computers, mobile, and AR/VR headsets (except Vision pro until Safari gets their WebXR act together)
+This link will work in all browsers on computers, mobile, and AR/VR headsets (except Vision pro until Safari gets further WebXR support)
 
 Please note that the RSS feed did not have transcripts for all episodies, so some of the episode nodes don't contain summaries, key insights, and quotes. I used Flow Immersive, a.flow.gl, to visualize the output in 3D, as that is what I'm most familiar with, my most recent startup. 
 
